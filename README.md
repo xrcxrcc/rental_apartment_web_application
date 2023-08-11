@@ -6,33 +6,33 @@ This project will utilize Vue.js for the frontend, Node.js for the backend, and 
 
 ## Login page
 
-<img src="C:\Users\xrcxr\AppData\Roaming\Typora\typora-user-images\image-20230811022503228.png" alt="image-20230811022503228" style="zoom:50%;" />
+<img src="readme_image/image-20230811022503228.png" alt="image-20230811022503228" style="zoom:50%;" />
 
 ## Home page
 
-![homepage](C:\Users\xrcxr\Desktop\finalImage\homepage.png)
+![homepage](readme_image/homepage.png)
 
 ## Search page
 
-![searchtest](C:\Users\xrcxr\Desktop\finalImage\searchtest.png)
+![searchtest](readme_image/searchtest.png)
 
 ## Apartment detail page
 
-![roomdetail](C:\Users\xrcxr\Desktop\finalImage\roomdetail.png)
+![roomdetail](readme_image/roomdetail.png)
 
-![Apartment detail test](C:\Users\xrcxr\Desktop\finalImage\Apartment detail test.png)
+![Apartment detail test](readme_image/Apartment detail test.png)
 
 ## Room detail page
 
-![roomdetail1](C:\Users\xrcxr\Desktop\finalImage\roomdetail1.png)
+![roomdetail1](readme_image/roomdetail1.png)
 
 ## Application page
 
-![applypage](C:\Users\xrcxr\Desktop\finalImage\applypage.png)
+![applypage](readme_image/applypage.png)
 
 ## Profile page
 
-![Profile](C:\Users\xrcxr\Desktop\finalImage\Profile.png)
+![Profile](readme_image/Profile.png)
 
 ## Like page
 
