@@ -36,7 +36,7 @@ This project will utilize Vue.js for the frontend, Node.js for the backend, and 
 
 ## Like page
 
-![LikeTest](C:\Users\xrcxr\Desktop\finalImage\LikeTest.png)
+![LikeTest](readme_image/LikeTest.png)
 
 ## Stays page
 
