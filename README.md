@@ -40,6 +40,6 @@ This project will utilize Vue.js for the frontend, Node.js for the backend, and 
 
 ## Stays page
 
-<img src="C:\Users\xrcxr\AppData\Roaming\Typora\typora-user-images\image-20230811022955026.png" alt="image-20230811022955026" style="zoom:50%;" />
+<img src="readme_image/image-20230811022955026.png" alt="image-20230811022955026" style="zoom:50%;" />
 
 The platform facilitates essential operations such as login, searching, selecting accommodations, and reserving them, effectively achieving the core functionalities required for a rental platform.
